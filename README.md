@@ -1,2 +1,2 @@
 # Second-Order-Surfaces
-University projects about plotting second-order surfaces using MATLAV
+University project about plotting second-order surfaces using MATLAB
